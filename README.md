@@ -1,4 +1,3 @@
-
 <h1>Math Test Program</h1>
 
 <h2>Description</h2>
@@ -26,31 +25,31 @@ Designed to help users practice arithmetic operations such as addition, subtract
 
 <p align="center">
 The Program: Declare functions and variables<br/>
-<img src="https://i.imgur.com/gpbbDKn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kYAaUjO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 The Program: Input and processing with loops<br/>
-<img src="https://i.imgur.com/j4Z6ehl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/oeqoeae.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 The Program: Provide question and answer based on input<br/>
-<img src="https://i.imgur.com/Tlf1iel.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mYziqUT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 The Program: Generate random number<br/>
-<img src="https://i.imgur.com/1CKnGgw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/RX9JTFv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 The Results: Responses for Addition and Subtraction<br/>
-<img src="https://i.imgur.com/YuYDTI6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/m2RLqur.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 The Results: Responses for Multiplication and Division<br/>
-<img src="https://i.imgur.com/wCJfIvJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jXpTk5L.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 The Results: Exiting program and displaying results<br/>
-<img src="https://i.imgur.com/YplbAQ3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/PPccjP5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
   
 </p>
